@@ -4,7 +4,7 @@ The prupose of this challenge was to edit or refactor our original code from the
 
 ## Results
 After running the analysis for 2017 and 2018, the results show that the selected stocks in 2017 had much better returns for the year, except for ticker TERP. Versus 2018, where 10 out of the 12 companies ended the year with negative returns.  In addition to anlyzing the stock performace, this challenge also wanted to analyze the code performace by timing how long it takes to run.  After refactoring the code so that it can run more effiecntly, the timer pop up windows did show that the code did in fact work faster than the original. The screenshots below show the new run times of the refactored code. 
-
+VBA_Challenge_2017.png
 
 ## Summary
 ### Advantages and disadvantages of refactoring code
